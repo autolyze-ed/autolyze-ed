@@ -1,0 +1,14 @@
+{
+  "name": "autolyze-ed-electron",
+  "version": "1.0.0",
+  "description": "automatically solves analyze ed problems",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "caspar ashe",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.11"
+  }
+}
